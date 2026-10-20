@@ -8,19 +8,7 @@ const TEAM = [
     name: "Harsh Pundhir",
     role: "Founder & Lead Architect",
     desc: "Passionate about AI-driven productivity and educational technology.",
-    links: { github: "#", twitter: "#", linkedin: "#" }
-  },
-  {
-    name: "Harsh Sharma",
-    role: "UX Design Lead",
-    desc: "Specialist in glassmorphism and motion-first interfaces.",
-    links: { github: "#", twitter: "#", linkedin: "#" }
-  },
-  {
-    name: "Harsh Vardhan Singh",
-    role: "Full-Stack Engineer",
-    desc: "Optimizing the physics engine and real-time collaboration.",
-    links: { github: "#", twitter: "#", linkedin: "#" }
+    links: { github: "https://github.com/pundhirharsh848", twitter: "#", linkedin: "#" }
   }
 ];
 
